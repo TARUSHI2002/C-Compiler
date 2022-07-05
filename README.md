@@ -1,6 +1,6 @@
 # C-Compiler
 A C compiler that detects lexical error and produces a parsed output.
-ASSUMPTIONS-
+## ASSUMPTIONS-
 a)allowed programs-
 i) only *single* variable declaration is allowed at a time (not initialization) however in function call variable declaration and initialization both are allowed.
 ii)function declaration
