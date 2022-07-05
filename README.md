@@ -10,7 +10,7 @@ iii)function defintion
    -positive numbers 
 
 3. FUNCTION DEFINITION- statements allowed are 
-   *if
+   -if
    -if else (NOTE-NO NESTED IF ELSE ALLOWED)
    -assignment 
    -function call with parameters(NOTE-PARAMETERS CAN BE OF INT OR CHAR * DATATYPE ONLY) 
