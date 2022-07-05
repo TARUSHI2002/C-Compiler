@@ -2,9 +2,9 @@
 A C compiler that detects lexical error and produces a parsed output.
 ## ASSUMPTIONS-
 1. allowed programs-
-i) only *single* variable declaration is allowed at a time (not initialization) however in function call variable declaration and initialization both are allowed.
-ii)function declaration
-iii)function defintion 
+i) only *single* variable declaration is allowed at a time (not initialization) however in function call variable declaration and initialization both are allowed.< /br>
+ii)function declaration< /br>
+iii)function defintion < /br>
 
 2. allowed datatypes-
    -positive numbers 
